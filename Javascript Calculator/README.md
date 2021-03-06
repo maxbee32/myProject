@@ -17,9 +17,6 @@ To install required packages
 
 **run** `yarn install`
 
-## Authors
-
-* **Abdullah Furkan Özbek** - *Software Developer* - [afozbek](https://github.com/afozbek)
 
 ## License
 
